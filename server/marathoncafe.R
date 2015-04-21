@@ -132,6 +132,12 @@ names(count) <- c("yhour","st")
 # text(c(4.5,9+12,42),c(10,10,10), c("torsdag","fredag","loerdag","soendag"))
 # if (print == 1){dev.off()}
 
+#####
+# Forbrug per minut 
+#####
+# Forbrug per minut 
+#####
+# Forbrug per minut 
 
 #####
 # Forbrug per minut 
